@@ -1,0 +1,1 @@
+O kit didático proposto foi projetado para proporcionar uma experiência prática abrangente no estudo de sistemas embarcados, integrando uma variedade de sensores, atuadores e interfaces de comunicação ao microcontrolador ESP32. 
