@@ -20,7 +20,7 @@ void app_main() {
   // Inicializa o display
   init_ssd1306();
 
-  // Buffers para que a temperatura e a umidade fiquem no display
+  // Strings para temperatura e umidade a serem exibidas no display
   char temp_str[20];
   char umid_str[25];
 

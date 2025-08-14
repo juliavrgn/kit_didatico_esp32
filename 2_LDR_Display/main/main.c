@@ -3,7 +3,7 @@
 #include "freertos/FreeRTOS.h"
 #include "freertos/task.h"
 #include <driver/adc.h>
-#include <ssd1306.h>   // Supondo que você já tenha o driver SSD1306 configurado e inicializado
+#include <ssd1306.h>   
 
 // Pino ADC conectado ao LDR (exemplo: GPIO34 que é ADC1_CH6)
 #define LDR_ADC_CHANNEL ADC1_CHANNEL_6
